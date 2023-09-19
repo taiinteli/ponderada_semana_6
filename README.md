@@ -18,3 +18,5 @@ IMPORTANTE: Depois de gravado o comportamento do projeto em produção, o estuda
 
 Link do vídeo da aplicação em funcionamento: https://youtu.be/nzqgrJqFcH8?feature=shared 
 
+O objetivo principal da aplicação é construir e implantar um modelo de predição ou classificação em uma nuvem, com uma API de acesso para interação com o modelo. A API é desenvolvida usando o framework FastAPI em Python, e o modelo é implantado como uma imagem de contêiner no DockerHub. O projeto inclui a escolha de um conjunto de dados, o desenvolvimento do modelo de machine learning, e a gravação de um vídeo demonstrando o uso do modelo em produção.
+
